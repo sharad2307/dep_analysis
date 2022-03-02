@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  1 19:43:52 2017
-
-@author: ashwa
-"""
 
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
